@@ -58,7 +58,7 @@ for (k = 0; k < 5; k++) {
 cout << "Following is the SAFE Sequence" << endl;
 for (i = 0; i < n - 1; i++)
 	cout << " P" << ans[i] << " ->";
-    cout << " P" << ans[n - 1] <<endl;
+   cout << " P" << ans[n - 1] <<endl;
 
 	return (0);
 }
