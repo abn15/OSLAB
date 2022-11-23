@@ -1,0 +1,10 @@
+ARRIVAL TIME-The time at which process enter the ready queue 
+
+BURST TIME-Time required by the process to be executed by the CPU
+
+COMPLETION TIME-The total time at which process complete its execution
+
+TURN AROUND TIME- 
+         TAT=COMPLETION TIME- ARRIVAL TIME
+
+WAITING TIME-          
